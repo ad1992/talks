@@ -18,7 +18,7 @@ List of my talks
 
 ### The First React Working Group
 
-[React Conf](https://conf.reactjs.org/) [▶](https://youtu.be/8dUpL8SCO1w?t=5203/)
+[React Conf](https://conf.reactjs.org/) [▶](https://youtu.be/8dUpL8SCO1w?t=5200)
 
 [Slides](https://docs.google.com/presentation/d/1TgsPcWLwnZsCAiaPuaXYgL-FWdx_LpBIw9CeHvYoULY/edit?usp=sharing)
 
