@@ -10,7 +10,7 @@ List of my talks
 ### Internals of Excalidraw
 
 
-[React Next](https://www.react-next.com/)
+[React Next](https://www.react-next.com/) [▶](https://www.youtube.com/watch?v=mGDAmXNigKo&list=PLMYVq3z1QxSogwDDigcwje1WsSA1pt6s7&index=16&t=8s)
 
 
 
