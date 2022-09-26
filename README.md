@@ -1,4 +1,6 @@
 # Talks
+## Moving my talks to [aakansha.dev](https://aakansha.dev/talks).
+
 List of my talks
 
 ## 2022
